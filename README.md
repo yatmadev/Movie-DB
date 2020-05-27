@@ -1,5 +1,5 @@
 # Movie-DB
-# Fetching Movie Details from API using React-Native
+Fetching Movie Details from API using React-Native
 
 ## Screenshots
 
