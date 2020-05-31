@@ -5,11 +5,7 @@ import { callRemoteMethod } from "../utilities/WebServiceHandler";
 import Loader from "../utilities/Loader";
 import Styles from "./Styles";
 
-/**
- * @author Vaibhav Padalia
- * @description This component shows detailed description about 
- * a movie (id) that has been passed from previous component.
- */
+
 class SecondScreen extends Component {
   static navigationOptions = {
     headerTitle: Constants.Strings.SECONDARY_TITLE,
