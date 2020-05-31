@@ -8,12 +8,7 @@ export function customAlert(customString) {
   }, 5);
 }
 
-/**
- * @author Vaibhav Padalia
- * @param condition The condition that has to be checked.
- * @param content The content that is to be shown when condition is true.
- * @description Function for conditional rendering.
- */
+
 
 export function renderIf(condition, content) {
   if (condition) {
