@@ -7,11 +7,7 @@ import { renderIf } from "../utilities/CommonMethods";
 import Styles from "./Styles";
 import { customAlert } from "./../utilities/CommonMethods";
 
-/**
- * @author Vaibhav Padalia
- * @description This is the first screen that loads when the app starts. This screen shows the list of movies
- * according to the search query.
- */
+
 class MainScreen extends Component {
   static navigationOptions = {
     headerTitle: Constants.Strings.MAIN_TITLE
